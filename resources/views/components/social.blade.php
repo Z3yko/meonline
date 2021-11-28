@@ -1,0 +1,1 @@
+<a href="{{$link}}"><i {{$attributes->merge(['class' => 'text-5xl mx-1 transform hover:scale-105 duration-300'])}}></i></a>

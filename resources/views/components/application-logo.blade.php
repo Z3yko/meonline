@@ -1,0 +1,1 @@
+<img src="{{asset('storage/logo.png')}}" class="w-64 md:w-96" alt="">
